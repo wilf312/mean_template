@@ -1,0 +1,17 @@
+{
+  "name": "memo.wilf.jp",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "*",
+    "mongodb": "2.*",
+    "mongoose": "^4.2.3",
+    "passport": "^0.3.0",
+    "passport-twitter": "^1.0.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-nodemon": "^2.0.4"
+  }
+}
